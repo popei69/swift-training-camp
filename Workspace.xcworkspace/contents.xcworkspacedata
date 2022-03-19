@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:README.md">
+   </FileRef>
+   <Group
+      location = "container:"
+      name = "Medium">
+      <FileRef
+         location = "group:Medium/leetcode-970.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Easy">
+      <FileRef
+         location = "group:Easy/leetcode-2194.playground">
+      </FileRef>
+      <FileRef
+         location = "group:Easy/leetcode-2148.playground">
+      </FileRef>
+   </Group>
+</Workspace>
