@@ -15,6 +15,9 @@
       location = "container:"
       name = "Easy">
       <FileRef
+         location = "group:Easy/leetcode-35.playground">
+      </FileRef>
+      <FileRef
          location = "group:Easy/leetcode-2194.playground">
       </FileRef>
       <FileRef
