@@ -10,6 +10,9 @@
       <FileRef
          location = "group:Medium/leetcode-970.playground">
       </FileRef>
+      <FileRef
+         location = "group:Medium/leetcode-17.playground">
+      </FileRef>
    </Group>
    <Group
       location = "container:"
@@ -34,6 +37,9 @@
       </FileRef>
       <FileRef
          location = "group:Easy/leetcode-278.playground">
+      </FileRef>
+      <FileRef
+         location = "group:Easy/leetcode-977.playground">
       </FileRef>
    </Group>
 </Workspace>
