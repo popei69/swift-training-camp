@@ -13,6 +13,9 @@
       <FileRef
          location = "group:Medium/leetcode-17.playground">
       </FileRef>
+      <FileRef
+         location = "group:Medium/leetcode-189.playground">
+      </FileRef>
    </Group>
    <Group
       location = "container:"
