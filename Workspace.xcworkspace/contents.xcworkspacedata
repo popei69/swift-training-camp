@@ -47,5 +47,8 @@
       <FileRef
          location = "group:Easy/leetcode-283.playground">
       </FileRef>
+      <FileRef
+         location = "group:Easy/leetcode-344.playground">
+      </FileRef>
    </Group>
 </Workspace>
